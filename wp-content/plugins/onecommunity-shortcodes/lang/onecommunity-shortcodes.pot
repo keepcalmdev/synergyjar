@@ -1,0 +1,197 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OneCommunity Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-19 14:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: inc/blog.php:105 inc/blog.php:229
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/buddypress.php:150 inc/buddypress.php:175
+#: inc/buddypress.php:251 inc/buddypress.php:309
+#: inc/buddypress.php:341
+msgid "Active"
+msgstr ""
+
+#: inc/buddypress.php:182 inc/buddypress.php:258
+msgid "ago"
+msgstr ""
+
+#: inc/buddypress.php:149
+msgid "Alphabetical"
+msgstr ""
+
+#: inc/buddypress.php:14
+msgid "Blog comments"
+msgstr ""
+
+#: inc/blog.php:323
+msgid "Commented"
+msgstr ""
+
+#: inc/buddypress.php:143
+msgid "Community Groups"
+msgstr ""
+
+#: inc/general.php:133
+msgid "Create New Account!"
+msgstr ""
+
+#: inc/learnpress.php:104
+msgid "day"
+msgstr ""
+
+#: inc/learnpress.php:119
+msgid "days"
+msgstr ""
+
+#. Author of the plugin
+msgid "Diabolique Design"
+msgstr ""
+
+#: inc/learnpress.php:56
+msgid "Duration"
+msgstr ""
+
+#: inc/blog.php:325 inc/blog.php:332
+msgid "Events"
+msgstr ""
+
+#: inc/blog.php:324 inc/blog.php:331
+msgid "Featured"
+msgstr ""
+
+#: inc/general.php:133
+msgid "Forgot your password?"
+msgstr ""
+
+#: inc/buddypress.php:14
+msgid "Forum posts"
+msgstr ""
+
+#: inc/buddypress.php:14
+msgid "Forum topics"
+msgstr ""
+
+#: inc/buddypress.php:14 inc/buddypress.php:310
+msgid "Friends"
+msgstr ""
+
+#: inc/buddypress.php:14
+msgid "Groups"
+msgstr ""
+
+#: inc/learnpress.php:102
+msgid "hour"
+msgstr ""
+
+#: inc/learnpress.php:117
+msgid "hours"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Diabolique"
+msgstr ""
+
+#: inc/blog.php:105
+msgid "in"
+msgstr ""
+
+#: inc/buddypress.php:194
+msgid "Load More"
+msgstr ""
+
+#: inc/general.php:111 inc/general.php:125
+msgid "Log In"
+msgstr ""
+
+#: inc/general.php:113
+msgid "Login to your account and check out the new messages."
+msgstr ""
+
+#: inc/learnpress.php:100
+msgid "minute"
+msgstr ""
+
+#: inc/learnpress.php:115
+msgid "minutes"
+msgstr ""
+
+#: inc/blog.php:330
+msgid "Most commented"
+msgstr ""
+
+#: inc/blog.php:322 inc/blog.php:329
+msgid "Most Liked"
+msgstr ""
+
+#: inc/buddypress.php:311 inc/buddypress.php:342
+msgid "New"
+msgstr ""
+
+#: inc/buddypress.php:148
+msgid "Newest"
+msgstr ""
+
+#. Name of the plugin
+msgid "OneCommunity Shortcodes"
+msgstr ""
+
+#: inc/buddypress.php:312 inc/buddypress.php:343
+msgid "Online"
+msgstr ""
+
+#: inc/general.php:119
+msgid "Password"
+msgstr ""
+
+#: inc/buddypress.php:151
+msgid "Popular"
+msgstr ""
+
+#: inc/buddypress.php:14
+msgid "Profiles"
+msgstr ""
+
+#: inc/general.php:122
+msgid "Remember Me"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shortcodes Plugin."
+msgstr ""
+
+#: inc/general.php:88
+msgid "This content is visible for members only"
+msgstr ""
+
+#: inc/general.php:117
+msgid "Username"
+msgstr ""
+
+#: inc/learnpress.php:106
+msgid "week"
+msgstr ""
+
+#: inc/learnpress.php:121
+msgid "weeks"
+msgstr ""
+
+#: inc/buddypress.php:90
+msgid "You must login first to see activity of your friends."
+msgstr ""

@@ -1,0 +1,6018 @@
+{
+	"objectIdFieldName": "FID",
+	"uniqueIdField": {
+		"name": "FID",
+		"isSystemMaintained": true
+	},
+	"globalIdFieldName": "",
+	"geometryType": "esriGeometryPoint",
+	"spatialReference": {
+		"wkid": 4326,
+		"latestWkid": 4326
+	},
+	"fields": [
+		{
+			"name": "FID",
+			"type": "esriFieldTypeOID",
+			"alias": "FID",
+			"sqlType": "sqlTypeInteger",
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "NAME",
+			"type": "esriFieldTypeString",
+			"alias": "NAME",
+			"sqlType": "sqlTypeNVarchar",
+			"length": 57,
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "CLASS",
+			"type": "esriFieldTypeString",
+			"alias": "CLASS",
+			"sqlType": "sqlTypeNVarchar",
+			"length": 36,
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "POPULATION",
+			"type": "esriFieldTypeInteger",
+			"alias": "POPULATION",
+			"sqlType": "sqlTypeInteger",
+			"domain": null,
+			"defaultValue": null
+		}
+	],
+	"features": [
+		{
+			"attributes": {
+				"FID": "2",
+				"NAME": "Michael Burbage",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-78.633047769708",
+				"y": "35.934690430291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "5",
+				"NAME": "Red Circle Marketing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-78.624993119709",
+				"y": "35.892289580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1695",
+				"NAME": "sanfranciscoplumbingcompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40159561971",
+				"y": "37.688972180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1696",
+				"NAME": "burlingameplasteringstuccoinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.33314316971",
+				"y": "37.582599580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1697",
+				"NAME": "fellmanmichaelsidingroofing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46037396971",
+				"y": "37.697116030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1698",
+				"NAME": "hoisconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39873321971",
+				"y": "37.747021180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1699",
+				"NAME": "rossiwilliamfpaintingwaterproofing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.26363171971",
+				"y": "37.515778530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1700",
+				"NAME": "passjanitorialbuildingservices",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40142291971",
+				"y": "37.663801680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1701",
+				"NAME": "inoutplumbingconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39941201971",
+				"y": "37.653285880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1702",
+				"NAME": "hargensinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39792641971",
+				"y": "37.648390580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1703",
+				"NAME": "kevinwebbconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43793431971",
+				"y": "37.801612280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1704",
+				"NAME": "saarmanconstructionltd.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42184591971",
+				"y": "37.780981680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1705",
+				"NAME": "casementconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42454041971",
+				"y": "37.778024180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1706",
+				"NAME": "plantconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38397101971",
+				"y": "37.744529080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1707",
+				"NAME": "oakleafconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41845371971",
+				"y": "37.780814880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1708",
+				"NAME": "avalonbayconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42310661971",
+				"y": "37.776303480292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1709",
+				"NAME": "designlineconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42269676971",
+				"y": "37.779252430291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1710",
+				"NAME": "lwrnainc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42304321971",
+				"y": "37.779803180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1711",
+				"NAME": "constructionmanagement",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41789741971",
+				"y": "37.782422080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1712",
+				"NAME": "fullpowerconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42515661971",
+				"y": "37.779568380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1713",
+				"NAME": "oconnorconstructionmgmt",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41694501971",
+				"y": "37.783466180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1714",
+				"NAME": "finelineconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42967091971",
+				"y": "37.770291380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1715",
+				"NAME": "dandhconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41078666971",
+				"y": "37.786536680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1716",
+				"NAME": "residentialbuilding",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40946341971",
+				"y": "37.788572780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1717",
+				"NAME": "jebrowncomechanicalcontractorsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41562821971",
+				"y": "37.768597680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1718",
+				"NAME": "jimmyjane",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40677691971",
+				"y": "37.768581130292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1719",
+				"NAME": "sanfranciscogarageco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41833871971",
+				"y": "37.773914780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1720",
+				"NAME": "ncrconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40556781971",
+				"y": "37.797889080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1721",
+				"NAME": "tricoconstuction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40504701971",
+				"y": "37.781196980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1722",
+				"NAME": "cookconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43636596971",
+				"y": "37.799313780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1723",
+				"NAME": "whipsaw",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41533571971",
+				"y": "37.774260180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1724",
+				"NAME": "desilvagatesconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39206101971",
+				"y": "37.712311780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1725",
+				"NAME": "constructioncenter",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41811601971",
+				"y": "37.771037580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1726",
+				"NAME": "hillpaintinggolden",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41811601971",
+				"y": "37.771037580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1727",
+				"NAME": "goffoconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41332181971",
+				"y": "37.772363280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1728",
+				"NAME": "ryanassociates",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44154001971",
+				"y": "37.794917980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1729",
+				"NAME": "castleconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41249636971",
+				"y": "37.772499930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1730",
+				"NAME": "customerconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42348861971",
+				"y": "37.771636680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1731",
+				"NAME": "matarozzipelsingerbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40759421971",
+				"y": "37.786030080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1732",
+				"NAME": "tcbbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41061951971",
+				"y": "37.774235280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1733",
+				"NAME": "artisanbuilderscorp",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41026371971",
+				"y": "37.775795980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1734",
+				"NAME": "cirrusconstructionmanagement",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41229601971",
+				"y": "37.771865980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1735",
+				"NAME": "berkelco.contractorsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40721171971",
+				"y": "37.777926580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1736",
+				"NAME": "mvconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41757391971",
+				"y": "37.787246180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1737",
+				"NAME": "howardswrightconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40909466971",
+				"y": "37.782928530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1738",
+				"NAME": "devconconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38766261971",
+				"y": "37.763319980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1739",
+				"NAME": "occidentalexpress",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40607591971",
+				"y": "37.780608280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1740",
+				"NAME": "ystudios",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40682831971",
+				"y": "37.770779080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1741",
+				"NAME": "saarmanconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44331051971",
+				"y": "37.788807080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1742",
+				"NAME": "strongholdconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41050881971",
+				"y": "37.766598080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1743",
+				"NAME": "martinbuildingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40682791971",
+				"y": "37.784137080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1744",
+				"NAME": "johnstonemcauliffeconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40369331971",
+				"y": "37.781708880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1745",
+				"NAME": "sprunginstantstructures",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40479321971",
+				"y": "37.768653280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1746",
+				"NAME": "athenaelectricalconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40326021971",
+				"y": "37.770499180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1747",
+				"NAME": "morsoconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40041161971",
+				"y": "37.776297280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1748",
+				"NAME": "gellingjuddinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40280701971",
+				"y": "37.767022980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1749",
+				"NAME": "rossibuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38922501971",
+				"y": "37.778812180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1750",
+				"NAME": "cahillconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40005251971",
+				"y": "37.794236680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1751",
+				"NAME": "greenebuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40043091971",
+				"y": "37.791124880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1752",
+				"NAME": "vanirconstructionmanagementinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40068961971",
+				"y": "37.792164880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1753",
+				"NAME": "bcciconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40007436971",
+				"y": "37.803152530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1754",
+				"NAME": "peacockconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39881201971",
+				"y": "37.793722680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1755",
+				"NAME": "mccarthybuildingcoinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40007021971",
+				"y": "37.795095580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1756",
+				"NAME": "turnerconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39889281971",
+				"y": "37.794351480292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1757",
+				"NAME": "theboldtcompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39727281971",
+				"y": "37.792263680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1758",
+				"NAME": "cannonconstructorsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39295091971",
+				"y": "37.791048980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1759",
+				"NAME": "commercialinteriorbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39078751971",
+				"y": "37.795476780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1760",
+				"NAME": "sierramountainconstrinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39978121971",
+				"y": "37.789518380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1761",
+				"NAME": "scbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39962411971",
+				"y": "37.789942980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1762",
+				"NAME": "mercedriverconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39668991971",
+				"y": "37.786833680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1763",
+				"NAME": "turnerconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39823101971",
+				"y": "37.788869980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1764",
+				"NAME": "motodevelopment",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.3482",
+				"y": "37.812"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1765",
+				"NAME": "suffolkconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40348276971",
+				"y": "37.793681530292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1766",
+				"NAME": "narrowbackconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38694791971",
+				"y": "37.757455980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1767",
+				"NAME": "clarkconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.4007112",
+				"y": "37.7830404"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1768",
+				"NAME": "mcrtnortherncaliforniaconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39156971971",
+				"y": "37.787785880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1769",
+				"NAME": "webcorbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39055841971",
+				"y": "37.778963680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1770",
+				"NAME": "bcciconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.2965317",
+				"y": "37.9481031"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1771",
+				"NAME": "citybuildinginc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38599751971",
+				"y": "37.790285480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1772",
+				"NAME": "thelawsonroofingcompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38761961971",
+				"y": "37.753880780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1773",
+				"NAME": "sozodesign",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38674871971",
+				"y": "37.761620980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1774",
+				"NAME": "cameronconstructionmana",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39115581971",
+				"y": "37.777622180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1775",
+				"NAME": "lenartstudios",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38930601971",
+				"y": "37.783039980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1776",
+				"NAME": "gwc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38772766971",
+				"y": "37.759583580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1777",
+				"NAME": "richlenconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39579006971",
+				"y": "37.781986730292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1778",
+				"NAME": "nibbibrothers",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39635401971",
+				"y": "37.768973980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1779",
+				"NAME": "dficonstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39434571971",
+				"y": "37.778741380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1780",
+				"NAME": "fieldconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39258731971",
+				"y": "37.784439480292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1781",
+				"NAME": "shelterbeltbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38659461971",
+				"y": "37.783863880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1782",
+				"NAME": "metropolitanelectricalconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38742396971",
+				"y": "37.760611930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1783",
+				"NAME": "aspencontractorsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40305101971",
+				"y": "37.780438980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1784",
+				"NAME": "arconconstructioncorp.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40214721971",
+				"y": "37.779724230291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1785",
+				"NAME": "barnardconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39820466971",
+				"y": "37.781583380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1786",
+				"NAME": "mhconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39883501971",
+				"y": "37.766517980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1787",
+				"NAME": "urbandesignconsultingengineers",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39518371971",
+				"y": "37.777635830292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1788",
+				"NAME": "plantconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43134431971",
+				"y": "37.791484180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1789",
+				"NAME": "swinertonbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39296851971",
+				"y": "37.779393180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1790",
+				"NAME": "d-lineconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39513381971",
+				"y": "37.786267280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1791",
+				"NAME": "stevenrikliconstructionco.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39513381971",
+				"y": "37.786267280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1792",
+				"NAME": "bcciconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39029451971",
+				"y": "37.777830480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1793",
+				"NAME": "podestaconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39641631971",
+				"y": "37.763257780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1794",
+				"NAME": "the300companylp",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39117521971",
+				"y": "37.783167780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1795",
+				"NAME": "projectfroginc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39174341971",
+				"y": "37.784689180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1796",
+				"NAME": "ntkconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38953681971",
+				"y": "37.782065880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1797",
+				"NAME": "norsebuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39037791971",
+				"y": "37.785458630291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1798",
+				"NAME": "mesaconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39905701971",
+				"y": "37.756942980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1799",
+				"NAME": "parkviewconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38768601971",
+				"y": "37.760293980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1800",
+				"NAME": "mindesignco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38691191971",
+				"y": "37.761483280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1801",
+				"NAME": "saisonglobal",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38691191971",
+				"y": "37.761483280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1802",
+				"NAME": "goldenwestconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38772766971",
+				"y": "37.759583580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1803",
+				"NAME": "transatlanticconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38755901971",
+				"y": "37.758294480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1804",
+				"NAME": "buckoneillbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39434531971",
+				"y": "37.751947780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1805",
+				"NAME": "majesticconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39435671971",
+				"y": "37.751961480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1806",
+				"NAME": "allbayconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39435671971",
+				"y": "37.751961480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1807",
+				"NAME": "pizziconiconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39415381971",
+				"y": "37.751386680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1808",
+				"NAME": "craighinesdesignsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40763761971",
+				"y": "37.794526780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1809",
+				"NAME": "principalbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40515571971",
+				"y": "37.789539830292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1810",
+				"NAME": "csbtelecomservicesinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40657791971",
+				"y": "37.790488480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1811",
+				"NAME": "stephensonconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43525831971",
+				"y": "37.779465580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1812",
+				"NAME": "fisherdevelopmentinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40348276971",
+				"y": "37.793681530292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1813",
+				"NAME": "chanarther",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40467371971",
+				"y": "37.795758180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1814",
+				"NAME": "josehartconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40389821971",
+				"y": "37.796270680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1815",
+				"NAME": "californiapaintingdecorating",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41591801971",
+				"y": "37.792602480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1816",
+				"NAME": "buildgroup",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41929791971",
+				"y": "37.785386480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1817",
+				"NAME": "polkstreetbuilding",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41902151971",
+				"y": "37.791424530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1818",
+				"NAME": "riveraconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41927841971",
+				"y": "37.784980980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1819",
+				"NAME": "carusoconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41993301971",
+				"y": "37.793563980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1820",
+				"NAME": "maintainapropertymaintenanceservice",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42283371971",
+				"y": "37.802891780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1821",
+				"NAME": "peakgeneralcontractorsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41927841971",
+				"y": "37.784980980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1822",
+				"NAME": "accairinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41927841971",
+				"y": "37.784980980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1823",
+				"NAME": "bapacshodanielprietod",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41927841971",
+				"y": "37.784980980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1824",
+				"NAME": "avalonconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39025301971",
+				"y": "37.732595380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1825",
+				"NAME": "cairnconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45232731971",
+				"y": "37.767533680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1826",
+				"NAME": "molloyconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42254501971",
+				"y": "37.787555280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1827",
+				"NAME": "simplyparking",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41830541971",
+				"y": "37.788758980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1828",
+				"NAME": "jamesmeeneghanconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41517856971",
+				"y": "37.789395680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1829",
+				"NAME": "renovattioconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41287831971",
+				"y": "37.790146480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1830",
+				"NAME": "cullinaeconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41977351971",
+				"y": "37.790689780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1831",
+				"NAME": "l-jsf",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42002556971",
+				"y": "37.791589630291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1832",
+				"NAME": "eequitybuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41957636971",
+				"y": "37.791643730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1833",
+				"NAME": "bellcoreconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41702106971",
+				"y": "37.791953730292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1834",
+				"NAME": "prcconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42429726971",
+				"y": "37.792525730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1835",
+				"NAME": "sienapacificinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42014201971",
+				"y": "37.793448030292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1836",
+				"NAME": "k2builders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42959721971",
+				"y": "37.787030880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1837",
+				"NAME": "jameserobertsobayshicorp",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42104201971",
+				"y": "37.794636380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1838",
+				"NAME": "morosoconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42484571971",
+				"y": "37.793998980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1839",
+				"NAME": "kgbellconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41390821971",
+				"y": "37.796126080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1840",
+				"NAME": "luxorconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41808891971",
+				"y": "37.796436980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1841",
+				"NAME": "aequitasconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42381601971",
+				"y": "37.796172180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1842",
+				"NAME": "eutricity",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41346831971",
+				"y": "37.796877980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1843",
+				"NAME": "centrixbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42312201971",
+				"y": "37.797261980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1844",
+				"NAME": "meccaconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41665471971",
+				"y": "37.799057830292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1845",
+				"NAME": "webbconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41781571971",
+				"y": "37.800195280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1846",
+				"NAME": "joyceconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42333131971",
+				"y": "37.801413280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1847",
+				"NAME": "saturnconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38978291971",
+				"y": "37.727186080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1848",
+				"NAME": "billermccoybuildersinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40689641971",
+				"y": "37.765088280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1849",
+				"NAME": "aruizconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40738601971",
+				"y": "37.741529980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1850",
+				"NAME": "vcompanyfinebuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40362491971",
+				"y": "37.754349980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1851",
+				"NAME": "firstclassstructures",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41016371971",
+				"y": "37.751520680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1852",
+				"NAME": "maximoconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41668201971",
+				"y": "37.740416980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1853",
+				"NAME": "buenavistaconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41738686971",
+				"y": "37.764694080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1854",
+				"NAME": "cappellettidsonsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41453831971",
+				"y": "37.763864980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1855",
+				"NAME": "imbelloniconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41504486971",
+				"y": "37.761918030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1856",
+				"NAME": "restorationworkshop",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41270371971",
+				"y": "37.761312180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1857",
+				"NAME": "byrnesmcclellanconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41833631971",
+				"y": "37.760188630292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1858",
+				"NAME": "houghconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41772856971",
+				"y": "37.747844530292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1859",
+				"NAME": "mikeferrellconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42172941971",
+				"y": "37.756765580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1860",
+				"NAME": "vonnegutthoreauconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41426891971",
+				"y": "37.756168880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1861",
+				"NAME": "kudos",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42261771971",
+				"y": "37.756163980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1862",
+				"NAME": "tommcdonaldconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42304981971",
+				"y": "37.754223580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1863",
+				"NAME": "512construction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42133131971",
+				"y": "37.753105780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1864",
+				"NAME": "matarozzipelsingerbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41598201971",
+				"y": "37.751123280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1865",
+				"NAME": "alphabaybuildersinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41517971971",
+				"y": "37.749892030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1866",
+				"NAME": "boughtonconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41384316971",
+				"y": "37.748905380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1867",
+				"NAME": "pallasconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41104366971",
+				"y": "37.747890030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1868",
+				"NAME": "upcyclebuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40948971971",
+				"y": "37.747703730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1869",
+				"NAME": "tomcanconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41121711971",
+				"y": "37.745944280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1870",
+				"NAME": "northpointbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40986201971",
+				"y": "37.746161980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1871",
+				"NAME": "harrisconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41017931971",
+				"y": "37.741448830292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1872",
+				"NAME": "kohlmyerdesigns",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41566666971",
+				"y": "37.740299830291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1873",
+				"NAME": "howardrobertbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41363581971",
+				"y": "37.737708780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1874",
+				"NAME": "bundgaarden",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41672131971",
+				"y": "37.734983880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1875",
+				"NAME": "rubysystemsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39755251971",
+				"y": "37.793505330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1876",
+				"NAME": "enterpriseconstructiongeneralcontrs",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40035141971",
+				"y": "37.795455930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1877",
+				"NAME": "mooseandzambrano",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39841141971",
+				"y": "37.798776080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1878",
+				"NAME": "hathawaydinwiddieconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39910641971",
+				"y": "37.795210780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1879",
+				"NAME": "dprconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40081291971",
+				"y": "37.801255080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1880",
+				"NAME": "modernconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39804621971",
+				"y": "37.792931430292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1881",
+				"NAME": "huntconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39765441971",
+				"y": "37.793819880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1882",
+				"NAME": "gcigeneralcontractors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40000281971",
+				"y": "37.800315580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1883",
+				"NAME": "mgmconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40060641971",
+				"y": "37.795584080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1884",
+				"NAME": "regenerativeventuresinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39715271971",
+				"y": "37.794991080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1885",
+				"NAME": "skylineconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39679791971",
+				"y": "37.724779480292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1886",
+				"NAME": "sanfranciscocommercialbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39660301971",
+				"y": "37.798631930291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1887",
+				"NAME": "heisesplumbing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44099961971",
+				"y": "37.724757930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1888",
+				"NAME": "portolabuildingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42893651971",
+				"y": "37.731451080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1889",
+				"NAME": "kenngconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43007606971",
+				"y": "37.730737330291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1890",
+				"NAME": "chongsonconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44187536971",
+				"y": "37.712121630291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1891",
+				"NAME": "wellingtonhomeinspectionservices",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43520666971",
+				"y": "37.724102930291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1892",
+				"NAME": "jgconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45794211971",
+				"y": "37.714112930291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1893",
+				"NAME": "jfloresconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42902111971",
+				"y": "37.731026480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1894",
+				"NAME": "ctconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44381436971",
+				"y": "37.732257680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1895",
+				"NAME": "apolloconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38097306971",
+				"y": "37.727284630291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1896",
+				"NAME": "bayareaceilingpropainting",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42740391971",
+				"y": "37.724402880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1897",
+				"NAME": "paconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42883161971",
+				"y": "37.721950380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1898",
+				"NAME": "roebuckconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39910046971",
+				"y": "37.718010380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1899",
+				"NAME": "nengconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45504496971",
+				"y": "37.724000630291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1900",
+				"NAME": "hutchinsonconstructioncoinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44263431971",
+				"y": "37.712456780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1901",
+				"NAME": "wickmandevelopmentconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44557161971",
+				"y": "37.712823080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1902",
+				"NAME": "josephcsandco.inc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42773641971",
+				"y": "37.767621880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1903",
+				"NAME": "clipperconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43103121971",
+				"y": "37.765947380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1904",
+				"NAME": "constructionbuhler",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43340526971",
+				"y": "37.765766380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1905",
+				"NAME": "bay-coastalconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43375441971",
+				"y": "37.761071580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1906",
+				"NAME": "benjaminshaw",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43378621971",
+				"y": "37.761008280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1907",
+				"NAME": "calettijungstenconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43666701971",
+				"y": "37.761862980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1908",
+				"NAME": "zolmanconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43537321971",
+				"y": "37.760436980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1909",
+				"NAME": "designlineconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43284781971",
+				"y": "37.755744880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1910",
+				"NAME": "jefferygoffoconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43593001971",
+				"y": "37.753499980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1911",
+				"NAME": "brianhartyconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43422041971",
+				"y": "37.752369030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1912",
+				"NAME": "usanationalconstruc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44501416971",
+				"y": "37.788972780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1913",
+				"NAME": "americanrealtyconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43077271971",
+				"y": "37.785301380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1914",
+				"NAME": "builtbytodd",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43930901971",
+				"y": "37.780630730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1915",
+				"NAME": "olsondesignandconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43243861971",
+				"y": "37.790880280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1916",
+				"NAME": "canyonconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42996136971",
+				"y": "37.795672980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1917",
+				"NAME": "landmarkconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44043201971",
+				"y": "37.784637980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1918",
+				"NAME": "northhamptonproperties",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43698351971",
+				"y": "37.793628680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1919",
+				"NAME": "vanackerconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43640471971",
+				"y": "37.794581330291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1920",
+				"NAME": "redhorseconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43904351971",
+				"y": "37.792887480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1921",
+				"NAME": "garconstructionmanagement",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46372326971",
+				"y": "37.734461280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1922",
+				"NAME": "constructionaudioservices",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44313781971",
+				"y": "37.794581480292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1923",
+				"NAME": "jmkconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44595696971",
+				"y": "37.793268680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1924",
+				"NAME": "jeterbuiltconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48464616971",
+				"y": "37.749216730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1925",
+				"NAME": "christophergateconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46490826971",
+				"y": "37.752092580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1926",
+				"NAME": "aaconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46603191971",
+				"y": "37.749103780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1927",
+				"NAME": "damconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46916561971",
+				"y": "37.744431780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1928",
+				"NAME": "linebargerconstructionplumbing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46854991971",
+				"y": "37.743478330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1929",
+				"NAME": "whelanwhelan",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46968201971",
+				"y": "37.742484980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1930",
+				"NAME": "kerleyconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47061286971",
+				"y": "37.740553180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1931",
+				"NAME": "eurotechconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48464616971",
+				"y": "37.749216730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1932",
+				"NAME": "spryscapesconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47929621971",
+				"y": "37.740271680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1933",
+				"NAME": "extolconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48651391971",
+				"y": "37.743732380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1934",
+				"NAME": "cylobuilder",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48852801971",
+				"y": "37.742732880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1935",
+				"NAME": "palmconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48942171971",
+				"y": "37.740700180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1936",
+				"NAME": "picconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49380101971",
+				"y": "37.739552980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1937",
+				"NAME": "ircallsidings",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49615051971",
+				"y": "37.736317630292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1938",
+				"NAME": "camarinaconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49773216971",
+				"y": "37.736662130291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1939",
+				"NAME": "rosconnconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42733651971",
+				"y": "37.774056980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1940",
+				"NAME": "apluscontractors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44835286971",
+				"y": "37.766823680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1941",
+				"NAME": "colorrenaissance",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43618821971",
+				"y": "37.775909780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1942",
+				"NAME": "bedrockconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42794051971",
+				"y": "37.773436580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1943",
+				"NAME": "fulcrumpointconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44122586971",
+				"y": "37.773624080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1944",
+				"NAME": "vandersterreconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42854661971",
+				"y": "37.775590580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1945",
+				"NAME": "brennanjohnco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43630661971",
+				"y": "37.774651980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1946",
+				"NAME": "plantconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44502511971",
+				"y": "37.773159680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1947",
+				"NAME": "gaelicconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44596501971",
+				"y": "37.774722880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1948",
+				"NAME": "orionconstructionmanagers",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45067651971",
+				"y": "37.774772880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1949",
+				"NAME": "designlineconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44802256971",
+				"y": "37.791454880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1950",
+				"NAME": "leefamilycorporation",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46763181971",
+				"y": "37.775049280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1951",
+				"NAME": "mizenconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45487431971",
+				"y": "37.780169680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1952",
+				"NAME": "malagicconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45456191971",
+				"y": "37.783007880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1953",
+				"NAME": "jeffkingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46028391971",
+				"y": "37.778565180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1954",
+				"NAME": "equatordevelopmentcorporation",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44755301971",
+				"y": "37.791807980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1955",
+				"NAME": "narrowbackconstructioncoinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45450201971",
+				"y": "37.777119980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1956",
+				"NAME": "towey",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45701586971",
+				"y": "37.782957480292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1957",
+				"NAME": "prospectconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45983291971",
+				"y": "37.778593680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1958",
+				"NAME": "starliteconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46241756971",
+				"y": "37.778182230291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1959",
+				"NAME": "bhmconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46365601971",
+				"y": "37.785206580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1960",
+				"NAME": "rwconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46759101971",
+				"y": "37.782845980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1961",
+				"NAME": "heavydutyconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46779691971",
+				"y": "37.782365780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1962",
+				"NAME": "biltwelldevelopmentco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46909621971",
+				"y": "37.781921180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1963",
+				"NAME": "josmaribuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47260986971",
+				"y": "37.778487930291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1964",
+				"NAME": "buildingefficiency",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49071506971",
+				"y": "37.775857230291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1965",
+				"NAME": "unitedbuilderco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49431861971",
+				"y": "37.777271180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1966",
+				"NAME": "mccluskeyconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48837861971",
+				"y": "37.783306580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1967",
+				"NAME": "twengconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49573141971",
+				"y": "37.777259580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1968",
+				"NAME": "kdconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48692806971",
+				"y": "37.774643680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1969",
+				"NAME": "lcabralconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48952921971",
+				"y": "37.785874130292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1970",
+				"NAME": "hughesandcompanyconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48051221971",
+				"y": "37.783755280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1971",
+				"NAME": "georgiouconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48262771971",
+				"y": "37.782105330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1972",
+				"NAME": "trushconstructioncoinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48376836971",
+				"y": "37.789403630292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1973",
+				"NAME": "fongbconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48749701971",
+				"y": "37.774337980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1974",
+				"NAME": "designmilagrosconstructionandremodeling",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48686046971",
+				"y": "37.788046830291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1975",
+				"NAME": "heavensearthcoinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48885841971",
+				"y": "37.773862080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1976",
+				"NAME": "morosoconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48753006971",
+				"y": "37.789262930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1977",
+				"NAME": "dsleongassociationinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49286851971",
+				"y": "37.780205180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1978",
+				"NAME": "peninsularealtyconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.49752516971",
+				"y": "37.779911030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1979",
+				"NAME": "firstorthodoxpresbyterianchurch",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47622301971",
+				"y": "37.759476280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1980",
+				"NAME": "expertplumbingsolutions",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.50265831971",
+				"y": "37.760673930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1981",
+				"NAME": "swimstudio",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46852036971",
+				"y": "37.766212930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1982",
+				"NAME": "andrewmihailovskycontractor",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46369896971",
+				"y": "37.755893580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1983",
+				"NAME": "wilcoxconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46314351971",
+				"y": "37.757507830291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1984",
+				"NAME": "rileyconstructioninc2",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46858406971",
+				"y": "37.759096330291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1985",
+				"NAME": "msquaredconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47654601971",
+				"y": "37.765299980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1986",
+				"NAME": "peterballaconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46569791971",
+				"y": "37.764322580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1987",
+				"NAME": "p3constructionremodel",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46646901971",
+				"y": "37.765132980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1988",
+				"NAME": "guinnaneconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47075501971",
+				"y": "37.766842430291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1989",
+				"NAME": "abjconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46681156971",
+				"y": "37.756590530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1990",
+				"NAME": "leixconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42256351971",
+				"y": "37.789722080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1991",
+				"NAME": "hammerhouseconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47321601971",
+				"y": "37.761463980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1992",
+				"NAME": "aeroconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48035741971",
+				"y": "37.764435680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1993",
+				"NAME": "sfgconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48671501971",
+				"y": "37.755848380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1994",
+				"NAME": "advanceddesign",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.50171756971",
+				"y": "37.760203430291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1995",
+				"NAME": "leflorjanitorial",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43289151971",
+				"y": "37.801808930292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1996",
+				"NAME": "gingerbreadbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42711041971",
+				"y": "37.799239380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1997",
+				"NAME": "larkspurbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42569841971",
+				"y": "37.799680180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1998",
+				"NAME": "ebwbuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42903331971",
+				"y": "37.798936180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "1999",
+				"NAME": "adamasbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43438321971",
+				"y": "37.800571780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2000",
+				"NAME": "cellomaudruconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44145976971",
+				"y": "37.798687730291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2001",
+				"NAME": "bayareamechanicalandenginneringinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38240471971",
+				"y": "37.744207280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2002",
+				"NAME": "aceplumbingandrooter",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39749391971",
+				"y": "37.747299080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2003",
+				"NAME": "starsawningcompanyinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.37925941971",
+				"y": "37.726841580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2004",
+				"NAME": "stenson-pacificelevatorco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39961561971",
+				"y": "37.744308980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2005",
+				"NAME": "bayviewhunterspointbuildersexchange",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38659976971",
+				"y": "37.747075380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2006",
+				"NAME": "cahillcontractors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.36792621971",
+				"y": "37.813121580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2007",
+				"NAME": "closseytombuilder",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.37719691971",
+				"y": "37.727599780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2008",
+				"NAME": "herrerobuildersincorporated",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39843051971",
+				"y": "37.741525980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2009",
+				"NAME": "lindquistcustomconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39749391971",
+				"y": "37.747299080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2010",
+				"NAME": "firthconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40222491971",
+				"y": "37.741467480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2011",
+				"NAME": "pegasusbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40305781971",
+				"y": "37.786685580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2012",
+				"NAME": "iturraldeconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39916201971",
+				"y": "37.735887980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2013",
+				"NAME": "collierostrominc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38377831971",
+				"y": "37.741311980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2014",
+				"NAME": "turnergroupconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39972831971",
+				"y": "37.727196480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2015",
+				"NAME": "hingwahconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39972831971",
+				"y": "37.727196480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2016",
+				"NAME": "rdconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39972831971",
+				"y": "37.727196480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2017",
+				"NAME": "cazadoroconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39972831971",
+				"y": "37.727196480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2018",
+				"NAME": "acornconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39704761971",
+				"y": "37.727800080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2019",
+				"NAME": "bannonconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.37355101971",
+				"y": "37.733499980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2020",
+				"NAME": "nationsroofingcompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.37995261971",
+				"y": "37.729081780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2021",
+				"NAME": "gonzalezconcrete",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38047081971",
+				"y": "37.728584180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2022",
+				"NAME": "berkelandcompanycontractors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38036671971",
+				"y": "37.727985080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2023",
+				"NAME": "bayareamechanicalenginneringinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38940941971",
+				"y": "37.723764380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2024",
+				"NAME": "kcconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38058731971",
+				"y": "37.726772530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2025",
+				"NAME": "trinetconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40180986971",
+				"y": "37.749994630292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2026",
+				"NAME": "admondconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39429201971",
+				"y": "37.751371980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2027",
+				"NAME": "irelandinteriorsystemsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40245801971",
+				"y": "37.745610980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2028",
+				"NAME": "missionconstructorsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39888316971",
+				"y": "37.745922030292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2029",
+				"NAME": "shantadesignbuild",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40248701971",
+				"y": "37.744136980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2030",
+				"NAME": "cbsconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39988521971",
+				"y": "37.742390980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2031",
+				"NAME": "moorerjconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38922831971",
+				"y": "37.747221380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2032",
+				"NAME": "malpasbirminghaminc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40223701971",
+				"y": "37.740980480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2033",
+				"NAME": "pjutilitycompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40139041971",
+				"y": "37.740836980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2034",
+				"NAME": "denningcabinetry",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40072201971",
+				"y": "37.740997680291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2035",
+				"NAME": "rcwilsonconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38688231971",
+				"y": "37.747360380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2036",
+				"NAME": "aarongordonconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40193321971",
+				"y": "37.739207780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2037",
+				"NAME": "rubeconbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38659976971",
+				"y": "37.747075380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2038",
+				"NAME": "cmcconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38659976971",
+				"y": "37.747075380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2039",
+				"NAME": "dajaniconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38458081971",
+				"y": "37.745087180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2040",
+				"NAME": "rsconstructionmanagement",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38458081971",
+				"y": "37.745087180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2041",
+				"NAME": "calstateconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39252121971",
+				"y": "37.711629680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2042",
+				"NAME": "michaelheaveyconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38604846971",
+				"y": "37.726327380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2043",
+				"NAME": "lcabralconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38265211971",
+				"y": "37.740553580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2044",
+				"NAME": "abbeysideconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39972831971",
+				"y": "37.727196480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2045",
+				"NAME": "eagleenvironmentalconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39992121971",
+				"y": "37.727189580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2046",
+				"NAME": "springlineinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39972831971",
+				"y": "37.727196480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2047",
+				"NAME": "georgiunconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39727601971",
+				"y": "37.727744980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2048",
+				"NAME": "cannonconstructors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39319891971",
+				"y": "37.726775380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2049",
+				"NAME": "trooshconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38978291971",
+				"y": "37.727186080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2050",
+				"NAME": "tlksteelinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38315021971",
+				"y": "37.728235880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2051",
+				"NAME": "mr.patchroofingandmaintenance",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38324911971",
+				"y": "37.728667580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2052",
+				"NAME": "highlandconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38330996971",
+				"y": "37.728303130291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2053",
+				"NAME": "cmconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39083751971",
+				"y": "37.724369380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2054",
+				"NAME": "seafront",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.37255601971",
+				"y": "37.732596980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2055",
+				"NAME": "seddonconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40083061971",
+				"y": "37.741419680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2056",
+				"NAME": "candlestickcontractors",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38296801971",
+				"y": "37.717977980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2057",
+				"NAME": "lgcustombuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46533941971",
+				"y": "37.741663880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2058",
+				"NAME": "odonnelljames",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44768856971",
+				"y": "37.738444130291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2059",
+				"NAME": "artgeneralroofing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46910561971",
+				"y": "37.731242380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2060",
+				"NAME": "comminsconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46256251971",
+				"y": "37.724818980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2061",
+				"NAME": "kevinsullivanconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45297056971",
+				"y": "37.742909780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2062",
+				"NAME": "sotacconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44357001971",
+				"y": "37.732709280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2063",
+				"NAME": "brendodnquinlandconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46480701971",
+				"y": "37.743466580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2064",
+				"NAME": "skycoreconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46727851971",
+				"y": "37.739964980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2065",
+				"NAME": "mackenconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46040051971",
+				"y": "37.731775380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2066",
+				"NAME": "fortodo",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.46783341971",
+				"y": "37.731106280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2067",
+				"NAME": "tricropconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47934691971",
+				"y": "37.793894580291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2068",
+				"NAME": "goldenstatebridgeinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.36969131971",
+				"y": "37.818121380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2069",
+				"NAME": "yerbabuenabuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.36400201971",
+				"y": "37.822141280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2070",
+				"NAME": "dannysconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.36974056971",
+				"y": "37.818452830291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2071",
+				"NAME": "salimiconstructionmanagement",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.36969131971",
+				"y": "37.818121380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2072",
+				"NAME": "rcjassoc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.36636041971",
+				"y": "37.812499880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2073",
+				"NAME": "wallaceremodelinginc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42994071971",
+				"y": "37.744122180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2074",
+				"NAME": "calplumbingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43830611971",
+				"y": "37.744741980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2075",
+				"NAME": "galagherconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43062891971",
+				"y": "37.747727780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2076",
+				"NAME": "pattenconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42749261971",
+				"y": "37.746867230291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2077",
+				"NAME": "halperinconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42826621971",
+				"y": "37.746674030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2078",
+				"NAME": "petemoffatconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43294801971",
+				"y": "37.746438980292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2079",
+				"NAME": "josephmariavaccaroco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43012521971",
+				"y": "37.744515480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2080",
+				"NAME": "bradfordconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43390051971",
+				"y": "37.743480280291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2081",
+				"NAME": "cellomaudruconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42767911971",
+				"y": "37.740998030291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2082",
+				"NAME": "socalconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.44419341971",
+				"y": "37.745477330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2083",
+				"NAME": "jbconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.43219111971",
+				"y": "37.738071380292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2084",
+				"NAME": "yellowzoneconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.47325801971",
+				"y": "37.724576980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2085",
+				"NAME": "amorosoconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.5025674",
+				"y": "37.7286307"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2086",
+				"NAME": "oneworkplace",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40179801971",
+				"y": "37.799482930291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2087",
+				"NAME": "isidoremahonconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40576101971",
+				"y": "37.797309980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2088",
+				"NAME": "wellbuiltconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41240941971",
+				"y": "37.800040780292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2089",
+				"NAME": "metaformproductdevelopment",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40910036971",
+				"y": "37.800510530291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2090",
+				"NAME": "mountainbayconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40134161971",
+				"y": "37.798510080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2091",
+				"NAME": "kansaidevelopementinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40139781971",
+				"y": "37.798600480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2092",
+				"NAME": "honsconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40639911971",
+				"y": "37.800882280292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2093",
+				"NAME": "birminghambuildersinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40153741971",
+				"y": "37.799320480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2094",
+				"NAME": "stroubconstructioncompany",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41245101971",
+				"y": "37.802780980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2095",
+				"NAME": "buildingelevator",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41205881971",
+				"y": "37.804348480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2096",
+				"NAME": "nationfidelityconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41073696971",
+				"y": "37.805097180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2097",
+				"NAME": "niederbergerpeter",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41094111971",
+				"y": "37.807658780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2098",
+				"NAME": "amsconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40258901971",
+				"y": "37.729335980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2099",
+				"NAME": "skycorecorp.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.42000461971",
+				"y": "37.727503080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2100",
+				"NAME": "genialiconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40177121971",
+				"y": "37.727793780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2100",
+				"NAME": "genialiconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40177121971",
+				"y": "37.727793780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2100",
+				"NAME": "genialiconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.40177121971",
+				"y": "37.727793780291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2101",
+				"NAME": "rubeconbuildersinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39884071971",
+				"y": "37.719841580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2101",
+				"NAME": "rubeconbuildersinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39884071971",
+				"y": "37.719841580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2101",
+				"NAME": "rubeconbuildersinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39884071971",
+				"y": "37.719841580292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2102",
+				"NAME": "hoisconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41115301971",
+				"y": "37.715819980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2102",
+				"NAME": "hoisconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41115301971",
+				"y": "37.715819980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2102",
+				"NAME": "hoisconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.41115301971",
+				"y": "37.715819980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2103",
+				"NAME": "avalonconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39252121971",
+				"y": "37.711629680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2103",
+				"NAME": "avalonconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39252121971",
+				"y": "37.711629680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2103",
+				"NAME": "avalonconstructionco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39252121971",
+				"y": "37.711629680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2104",
+				"NAME": "sypultconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45689711971",
+				"y": "37.764454080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2104",
+				"NAME": "sypultconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45689711971",
+				"y": "37.764454080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2104",
+				"NAME": "sypultconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.45689711971",
+				"y": "37.764454080291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2105",
+				"NAME": "domeconstructioncorporation",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39427311971",
+				"y": "37.770153380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2105",
+				"NAME": "domeconstructioncorporation",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39427311971",
+				"y": "37.770153380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2105",
+				"NAME": "domeconstructioncorporation",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.39427311971",
+				"y": "37.770153380291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2106",
+				"NAME": "geocellsystemsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38312601971",
+				"y": "37.771340980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2106",
+				"NAME": "geocellsystemsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38312601971",
+				"y": "37.771340980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2106",
+				"NAME": "geocellsystemsinc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.38312601971",
+				"y": "37.771340980291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2107",
+				"NAME": "mrplastics",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.18913101971",
+				"y": "37.720905180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2107",
+				"NAME": "mrplastics",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.18913101971",
+				"y": "37.720905180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2107",
+				"NAME": "mrplastics",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.18913101971",
+				"y": "37.720905180292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2108",
+				"NAME": "fmkconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.18363161971",
+				"y": "37.716334180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2108",
+				"NAME": "fmkconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.18363161971",
+				"y": "37.716334180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2108",
+				"NAME": "fmkconstructioninc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.18363161971",
+				"y": "37.716334180291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2109",
+				"NAME": "generalroofingco.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.22600461971",
+				"y": "37.773358330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2109",
+				"NAME": "generalroofingco.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.22600461971",
+				"y": "37.773358330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2109",
+				"NAME": "generalroofingco.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.22600461971",
+				"y": "37.773358330292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2110",
+				"NAME": "tamapaintingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.28984556971",
+				"y": "37.988860480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2110",
+				"NAME": "tamapaintingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.28984556971",
+				"y": "37.988860480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2110",
+				"NAME": "tamapaintingco",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.28984556971",
+				"y": "37.988860480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2111",
+				"NAME": "fontanaconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48791796971",
+				"y": "37.948389680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2111",
+				"NAME": "fontanaconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48791796971",
+				"y": "37.948389680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2111",
+				"NAME": "fontanaconstructioninc",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.48791796971",
+				"y": "37.948389680292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2112",
+				"NAME": "roto-rooter",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.56669036971",
+				"y": "38.112215130292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2112",
+				"NAME": "roto-rooter",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.56669036971",
+				"y": "38.112215130292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2112",
+				"NAME": "roto-rooter",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.56669036971",
+				"y": "38.112215130292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2113",
+				"NAME": "fpbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.53698146971",
+				"y": "38.076229880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2113",
+				"NAME": "fpbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.53698146971",
+				"y": "38.076229880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2113",
+				"NAME": "fpbuilders",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.53698146971",
+				"y": "38.076229880291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2114",
+				"NAME": "sonoma-marinconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.61861871971",
+				"y": "38.236902880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2114",
+				"NAME": "sonoma-marinconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.61861871971",
+				"y": "38.236902880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2114",
+				"NAME": "sonoma-marinconstruction",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.61861871971",
+				"y": "38.236902880292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2115",
+				"NAME": "wedgeroofing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.59663101971",
+				"y": "38.243814480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2115",
+				"NAME": "wedgeroofing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.59663101971",
+				"y": "38.243814480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2115",
+				"NAME": "wedgeroofing",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.59663101971",
+				"y": "38.243814480291"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2116",
+				"NAME": "metalroofsystemsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.66289086971",
+				"y": "38.270974080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2116",
+				"NAME": "metalroofsystemsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.66289086971",
+				"y": "38.270974080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2116",
+				"NAME": "metalroofsystemsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.66289086971",
+				"y": "38.270974080292"
+			}
+		},
+		{
+			"attributes": {
+				"FID": "2116",
+				"NAME": "metalroofsystemsinc.",
+				"CLASS": "city",
+				"ST": "ID",
+				"POPULATION": 11946
+			},
+			"geometry": {
+				"x": "-122.66289086971",
+				"y": "38.270974080292"
+			}
+		}
+	]
+}

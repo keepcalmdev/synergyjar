@@ -1,0 +1,39 @@
+.map-row{
+
+    padding: 10px;
+}
+#map {
+  margin: 25px 0;
+  padding: 20px;
+    height: 400px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+  }
+  .row{
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .marker-name{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 5px;
+  }
+  .marker-window{
+    width: 200px;
+
+
+  }
+  .marker-city{
+    display: inline;
+  }
+  .marker-state{
+    display: inline;
+  }
+  .marker-zip{
+    display: inline;
+  }
+  .total-results{
+    float: right;
+    margin: 20px 0;
+  }
